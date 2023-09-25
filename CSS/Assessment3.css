@@ -1,0 +1,18 @@
+body{
+    background-color: deepskyblue;
+}
+
+h1{
+    border: solid black;
+}
+p{
+    background-color: goldenrod;
+}
+div{
+    background-color: deepskyblue;
+}
+#textblock{
+    border: 5px solid gray;
+    width: 800px;
+    height: 400px;
+}
